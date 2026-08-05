@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Mihiiirpatel/Leetcode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Mihiiirpatel/Leetcode/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mihiiirpatel/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Sorting
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Mihiiirpatel/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Mihiiirpatel/Leetcode/tree/master/0014-longest-common-prefix) |
 ## Trie
 |  |
@@ -42,5 +44,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Mihiiirpatel/Leetcode/tree/master/0013-roman-to-integer) |
 | [3731-find-missing-elements](https://github.com/Mihiiirpatel/Leetcode/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
