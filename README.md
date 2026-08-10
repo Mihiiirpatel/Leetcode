@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Mihiiirpatel/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/Mihiiirpatel/Leetcode/tree/master/0035-search-insert-position) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mihiiirpatel/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mihiiirpatel/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/Mihiiirpatel/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Mihiiirpatel/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Mihiiirpatel/Leetcode/tree/master/0069-sqrtx) |
 ## Newton's Method
 |  |
