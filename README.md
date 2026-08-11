@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Mihiiirpatel/Leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Mihiiirpatel/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Mihiiirpatel/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Mihiiirpatel/Leetcode/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mihiiirpatel/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mihiiirpatel/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Sorting
@@ -97,9 +98,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Mihiiirpatel/Leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Mihiiirpatel/Leetcode/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Mihiiirpatel/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Mihiiirpatel/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Mihiiirpatel/Leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
