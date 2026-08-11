@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Mihiiirpatel/Leetcode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Mihiiirpatel/Leetcode/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/Mihiiirpatel/Leetcode/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mihiiirpatel/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mihiiirpatel/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Sorting
@@ -91,4 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Mihiiirpatel/Leetcode/tree/master/1929-concatenation-of-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Mihiiirpatel/Leetcode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Mihiiirpatel/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
