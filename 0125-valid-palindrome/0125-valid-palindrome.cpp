@@ -10,10 +10,13 @@ public:
                 m+=s[i];
             }
         }
-        for(int i=0 ; i<m.length()/2; i++){
-            if(m[i]!=m[m.length()-i-1]){
+        int lft=0,rht=m.length()-1;
+        while(lft<rht){
+            if(m[lft]!=m[rht]){
                 return false;
             }
+             lft++;
+             rht--;
         }
         return true;
     }
