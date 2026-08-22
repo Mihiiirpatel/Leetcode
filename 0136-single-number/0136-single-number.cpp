@@ -1,21 +1,14 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        int ans=0;
-        for(int i=0; i<nums.size(); i++){
-             bool tf=false;
-            ans=nums[i];
-            for(int j=nums.size()-1; j>=0; j--){
-                if(i==j){
-                    continue;
+        sort(nums.begin(),nums.end());
+        for(int i=0; i<nums.size()-1; i++){
+                if(nums[i]!=nums[i+1]){
+                    return nums[i];
                 }else{
-             if(nums[i]==nums[j]){
-                tf=true;
-                break;
-             }}
-            }
-            if(tf==false){return ans; }
+                    i++;
+                }
         }
-        return ans;
+        return nums[nums.size()-1];
     }
 };
