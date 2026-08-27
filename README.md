@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mihiiirpatel/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mihiiirpatel/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Mihiiirpatel/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3945-digit-frequency-score](https://github.com/Mihiiirpatel/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Sorting
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Mihiiirpatel/Leetcode/tree/master/0217-contains-duplicate) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mihiiirpatel/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Mihiiirpatel/Leetcode/tree/master/3731-find-missing-elements) |
+| [3945-digit-frequency-score](https://github.com/Mihiiirpatel/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Stack
 |  |
 | ------- |
