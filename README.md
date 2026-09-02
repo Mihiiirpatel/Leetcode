@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Mihiiirpatel/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mihiiirpatel/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/Mihiiirpatel/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2942-find-words-containing-character](https://github.com/Mihiiirpatel/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mihiiirpatel/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/Mihiiirpatel/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mihiiirpatel/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Mihiiirpatel/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Mihiiirpatel/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mihiiirpatel/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [2942-find-words-containing-character](https://github.com/Mihiiirpatel/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Mihiiirpatel/Leetcode/tree/master/3110-score-of-a-string) |
 ## Trie
 |  |
