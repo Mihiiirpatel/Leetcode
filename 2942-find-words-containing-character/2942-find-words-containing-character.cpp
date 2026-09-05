@@ -4,7 +4,8 @@ public:
         vector<int> ans;
         int n=words.size();
         for(int i=0; i<n; i++){
-            for(int j=0 ; j<words[i].length(); j++){
+            int m=words[i].length();
+            for(int j=0 ; j<m; j++){
                 if(x==words[i][j]){
                     ans.push_back(i);
                     break;
