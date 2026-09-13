@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Mihiiirpatel/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Mihiiirpatel/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Mihiiirpatel/Leetcode/tree/master/0231-power-of-two) |
+| [0292-nim-game](https://github.com/Mihiiirpatel/Leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Mihiiirpatel/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Mihiiirpatel/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Mihiiirpatel/Leetcode/tree/master/0509-fibonacci-number) |
@@ -157,4 +158,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Mihiiirpatel/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Mihiiirpatel/Leetcode/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Mihiiirpatel/Leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Mihiiirpatel/Leetcode/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Mihiiirpatel/Leetcode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Mihiiirpatel/Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
