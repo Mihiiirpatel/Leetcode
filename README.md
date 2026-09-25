@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Mihiiirpatel/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/Mihiiirpatel/Leetcode/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/Mihiiirpatel/Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Mihiiirpatel/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Mihiiirpatel/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Mihiiirpatel/Leetcode/tree/master/0283-move-zeroes) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Mihiiirpatel/Leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Mihiiirpatel/Leetcode/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mihiiirpatel/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mihiiirpatel/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mihiiirpatel/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/Mihiiirpatel/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Mihiiirpatel/Leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Mihiiirpatel/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Mihiiirpatel/Leetcode/tree/master/0344-reverse-string) |
@@ -183,4 +186,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Mihiiirpatel/Leetcode/tree/master/0836-rectangle-overlap) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Mihiiirpatel/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Mihiiirpatel/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
