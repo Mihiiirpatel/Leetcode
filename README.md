@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Mihiiirpatel/Leetcode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/Mihiiirpatel/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Mihiiirpatel/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Mihiiirpatel/Leetcode/tree/master/0342-power-of-four) |
 ## Recursion
@@ -194,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Mihiiirpatel/Leetcode/tree/master/0075-sort-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Mihiiirpatel/Leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
