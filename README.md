@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mihiiirpatel/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/Mihiiirpatel/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Mihiiirpatel/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Mihiiirpatel/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Mihiiirpatel/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/Mihiiirpatel/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3467-transform-array-by-parity](https://github.com/Mihiiirpatel/Leetcode/tree/master/3467-transform-array-by-parity) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Mihiiirpatel/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mihiiirpatel/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Two Pointers
 |  |
