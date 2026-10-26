@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Mihiiirpatel/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mihiiirpatel/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Mihiiirpatel/Leetcode/tree/master/0836-rectangle-overlap) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Mihiiirpatel/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Mihiiirpatel/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2485-find-the-pivot-integer](https://github.com/Mihiiirpatel/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mihiiirpatel/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Mihiiirpatel/Leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Mihiiirpatel/Leetcode/tree/master/0217-contains-duplicate) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Mihiiirpatel/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mihiiirpatel/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3668-restore-finishing-order](https://github.com/Mihiiirpatel/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mihiiirpatel/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -240,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2485-find-the-pivot-integer](https://github.com/Mihiiirpatel/Leetcode/tree/master/2485-find-the-pivot-integer) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Mihiiirpatel/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 <!---LeetCode Topics End-->
