@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Mihiiirpatel/Leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Mihiiirpatel/Leetcode/tree/master/0217-contains-duplicate) |
+| [0389-find-the-difference](https://github.com/Mihiiirpatel/Leetcode/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mihiiirpatel/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/Mihiiirpatel/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mihiiirpatel/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Mihiiirpatel/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Mihiiirpatel/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mihiiirpatel/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/Mihiiirpatel/Leetcode/tree/master/0389-find-the-difference) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mihiiirpatel/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2942-find-words-containing-character](https://github.com/Mihiiirpatel/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Mihiiirpatel/Leetcode/tree/master/3110-score-of-a-string) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Mihiiirpatel/Leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Mihiiirpatel/Leetcode/tree/master/0217-contains-duplicate) |
+| [0389-find-the-difference](https://github.com/Mihiiirpatel/Leetcode/tree/master/0389-find-the-difference) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Mihiiirpatel/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mihiiirpatel/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3668-restore-finishing-order](https://github.com/Mihiiirpatel/Leetcode/tree/master/3668-restore-finishing-order) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Mihiiirpatel/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Mihiiirpatel/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Mihiiirpatel/Leetcode/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/Mihiiirpatel/Leetcode/tree/master/0389-find-the-difference) |
 ## Recursion
 |  |
 | ------- |
